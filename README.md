@@ -29,3 +29,6 @@ $ python multi.py
 > Dan juga support pada python versi 3.10.5
 > Untuk melihat versi perangkat di hp kalian ketik : uname -m
 > Untuk melihat versi python di hp kalian ketik : python --version
+
+Kalau Ada Apa"/Ingin Tanya Bisa Chat Wa
+🪀http://wa.me/6283135958373
